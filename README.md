@@ -2,4 +2,4 @@
 
 아두이노기초 (C++)
 
-with Arduino uno r3, Arduino nano33
+with Arduino uno r3
